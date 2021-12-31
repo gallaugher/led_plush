@@ -1,4 +1,7 @@
 # led_plush
+
+https://user-images.githubusercontent.com/20801687/147834893-8c267f6d-b410-48b5-ab5e-a7586c19749c.mov
+
 Scripts used when adding NeoPixel LEDs to a plush using CircuitPython
 
 Scripts were written using an Adafruit Feather RP2040 & 20 LED NeoPixel Strand
